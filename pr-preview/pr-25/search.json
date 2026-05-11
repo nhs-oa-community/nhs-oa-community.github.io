@@ -42,18 +42,88 @@
     "text": "Can I volunteer to host or co-host future training?\nAbsolutely!\nWe’d love for more volunteers to step forwards to provide this teaching. All materials are provided and support is available. If you’d like to take part, drop us an email at openanalytics.community@nhs.net."
   },
   {
-    "objectID": "blog/posts/2026/01/index.html",
-    "href": "blog/posts/2026/01/index.html",
+    "objectID": "index.html#blog",
+    "href": "index.html#blog",
     "title": "NHS-OA Community website",
-    "section": "",
-    "text": "Back to top"
+    "section": "Blog",
+    "text": "Blog\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "fellowships/fellowship.html",
-    "href": "fellowships/fellowship.html",
-    "title": "NHS-OA Community Fellowships",
+    "objectID": "index.html#books",
+    "href": "index.html#books",
+    "title": "NHS-OA Community website",
+    "section": "Books",
+    "text": "Books\n\n\n\n\n\n\n\n\n\n\nHealth Inequalities\n\n\nThis project is a collection of information and knowledge related to analytical work on “Health Inequalities”, as performed in the NHS and the wider UK Health and Social…\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNHS-R Way book\n\n\nEverything you need or want to know about NHS-R Community including: how to contribute and get involved, code styles, training preparation materials.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Analytics Resources\n\n\nUseful links for health and care analysts and data scientists.\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About NHS Open Analytics Community",
     "section": "",
-    "text": "Our community is largely volunteer-led. We depend on our members to get involved in the running and decision making of NHS-OA, so that it remains a useful set of ever-growing resources to support and encourage our membership.\nIn recognition of the significant contributions from members, the NHS-OA Community awards the honorary title of Fellow for a set period of 3 years.\nFellowships are a great way to advertise your contributions, show your skill set and dedication to open source coding in healthcare, and embellish your CV with evidence of your community spirit.\nFor details on how to nominate yourself or someone else for a Fellowship, please visit the NHSOA-Way book.\n\n  \n  \n\n\n\nList of current NHS-OA Fellows\n\n\nName\nOrganisation\nValid From\n\n\n\n\nAdrian Pratt\nNHS Arden & GEM CSU\n01/04/2025\n\n\nAnastasiia Zharinova\nNHS England\n01/04/2025\n\n\nAnya Ferguson\nThe Strategy Unit\n01/04/2025\n\n\nBianca O’Mahoney\nThe Strategy Unit\n01/01/2024\n\n\nCaileigh Solomenca\nThe Strategy Unit\n01/04/2025\n\n\nChris Beeley\nThe Strategy Unit\n01/04/2025\n\n\nChris Mainey\nNHS Birmingham and Solihull\n01/04/2025\n\n\nClaire Welsh\nThe Strategy Unit\n01/04/2025\n\n\nEllen Coughlan\nThe Health Foundation\n01/04/2025\n\n\nJoe Wilson\nNHS England\n01/04/2025\n\n\nLyn Howard\nNHS England\n01/04/2025\n\n\nMary Amanuel\nNHS England\n15/12/2025\n\n\nNatasha Stephenson\nThe Strategy Unit\n01/04/2024\n\n\nPablo Leon-Rodenas\nNHS England\n01/04/2025\n\n\nPaul Johnson\nNHS South, Central and West\n01/04/2025\n\n\nSam Hollings\nNHS England\n01/04/2025\n\n\nSimon Wellesley-Miller\nNHS England\n01/04/2025\n\n\nStuart Howard\nBlackpool Teaching Hospitals NHS Foundation Trust\n01/04/2025\n\n\nTom Smith\nNottingham University Hospitals NHS Trust\n14/07/2025\n\n\nZoë Turner\nThe Strategy Unit and Nottinghamshire Healthcare NHS Foundation Trust\n01/04/2025\n\n\n\n*Organisations listed are at the time of award\n\n\n\n\n\n\nIf you have any questions about Fellowships, or would like to alter or remove your details from the Fellowship list above, please email us at openanalytics.community@nhs.net.\n\nThank you for your support!\n\n\n\n\n Back to top"
+    "text": "The NHS Open Analytics Community was formed in 2025 by an enthusiastic group of volunteers from across the NHS. The much loved NHS-R and NHS.pycom communities were merged to allow a stronger voice in support of NHS analysts and data scientists who care about promoting the use of open code and tools in health and care.\nWe aim to promote best practice and values of transparency, sharing, and collaboration in the use of health and care data, but we also welcome those who share our values from the public sector, academia, and the third sector.\nWe are coding language-agnostic, but principally provide resources and training in R and python.\nNHS-OA is hosted by The Strategy Unit Substack"
+  },
+  {
+    "objectID": "about.html#how-can-i-get-involved",
+    "href": "about.html#how-can-i-get-involved",
+    "title": "About NHS Open Analytics Community",
+    "section": "How can I get involved?",
+    "text": "How can I get involved?\nWhether you are a complete novice at coding or a seasoned professional, a senior leader or on day one of your career, the community has something to offer you!\n📢 Join the conversation over on Slack! 📖 Check out our free online books and training materials! 🎪 Come along to one of our events! 📽️ Watch our previous conferences, webinars and workshops on all manner of topics! 🪄 Contribute to our codebases - including this website! 😎 Join the committee and have your say on how we run!"
+  },
+  {
+    "objectID": "ts-and-cs.html",
+    "href": "ts-and-cs.html",
+    "title": "Terms and conditions",
+    "section": "",
+    "text": "Statements of fact and opinion published on this website are those of the respective authors and contributors and not necessarily those of NHS-OA Community, its editors, The Strategy Unit, The Health Foundation or other partners and funders.\nNHS-OA Community has prepared the content of this website responsibly and carefully. However, NHS-OA Community, its editors, The Strategy Unit, The Health Foundation or other partners and funders disclaim all warranties, express or implied, as to the accuracy of the information contained in any of the materials on this website or on other linked websites or on any subsequent links. This includes, but is not by way of limitation:\n\nany implied warranties of merchantability and fitness for a particular purpose.\nany liability for damage to your computer hardware, data, information, materials and business resulting from the information or the lack of information available.\nany errors, omissions, or inaccuracies in the information.\nany decision made or action taken or not taken in reliance upon the information.\n\nNHS-OA Community, its editors, The Strategy Unit, The Health Foundation or other partners and funders make no warranty as to the content, accuracy, timeliness or completeness of the information or that the information may be relied upon for any reason and bear no responsibility for the accuracy, content or legality of any linked site or for that of any subsequent links. NHS-OA Community, its editors, The Strategy Unit, The Health Foundation or other partners and funders make no warranty that the website service will be uninterrupted or error-free or that any defects can be corrected.\nNHS-OA Community, its editors, The Strategy Unit, The Health Foundation or other partners and funders shall not be liable for any losses or damages (including without limitation consequential loss or damage) whatsoever from the use of, or reliance on, the information in this website, or from the use of the internet generally. Links to other websites or the publication of advertisements do not constitute an endorsement or an approval by NHS-OA Community, its editors, The Strategy Unit, The Health Foundation or other partners and funders.\nThese disclaimers and exclusions shall be governed by and construed in accordance with the laws of England and Wales under the exclusive jurisdiction of the courts of England and Wales. Those who choose to access this site from outside the United Kingdom are responsible for compliance with local laws if and to the extent local laws are applicable.\nBy using this site, you agree to these terms and conditions of use."
+  },
+  {
+    "objectID": "ts-and-cs.html#legal-disclaimer",
+    "href": "ts-and-cs.html#legal-disclaimer",
+    "title": "Terms and conditions",
+    "section": "",
+    "text": "Statements of fact and opinion published on this website are those of the respective authors and contributors and not necessarily those of NHS-OA Community, its editors, The Strategy Unit, The Health Foundation or other partners and funders.\nNHS-OA Community has prepared the content of this website responsibly and carefully. However, NHS-OA Community, its editors, The Strategy Unit, The Health Foundation or other partners and funders disclaim all warranties, express or implied, as to the accuracy of the information contained in any of the materials on this website or on other linked websites or on any subsequent links. This includes, but is not by way of limitation:\n\nany implied warranties of merchantability and fitness for a particular purpose.\nany liability for damage to your computer hardware, data, information, materials and business resulting from the information or the lack of information available.\nany errors, omissions, or inaccuracies in the information.\nany decision made or action taken or not taken in reliance upon the information.\n\nNHS-OA Community, its editors, The Strategy Unit, The Health Foundation or other partners and funders make no warranty as to the content, accuracy, timeliness or completeness of the information or that the information may be relied upon for any reason and bear no responsibility for the accuracy, content or legality of any linked site or for that of any subsequent links. NHS-OA Community, its editors, The Strategy Unit, The Health Foundation or other partners and funders make no warranty that the website service will be uninterrupted or error-free or that any defects can be corrected.\nNHS-OA Community, its editors, The Strategy Unit, The Health Foundation or other partners and funders shall not be liable for any losses or damages (including without limitation consequential loss or damage) whatsoever from the use of, or reliance on, the information in this website, or from the use of the internet generally. Links to other websites or the publication of advertisements do not constitute an endorsement or an approval by NHS-OA Community, its editors, The Strategy Unit, The Health Foundation or other partners and funders.\nThese disclaimers and exclusions shall be governed by and construed in accordance with the laws of England and Wales under the exclusive jurisdiction of the courts of England and Wales. Those who choose to access this site from outside the United Kingdom are responsible for compliance with local laws if and to the extent local laws are applicable.\nBy using this site, you agree to these terms and conditions of use."
+  },
+  {
+    "objectID": "ts-and-cs.html#site-content",
+    "href": "ts-and-cs.html#site-content",
+    "title": "Terms and conditions",
+    "section": "Site content",
+    "text": "Site content\nAll content published through this site is open under the CC0 licence unless otherwise stated. We make every reasonable effort to locate, contact and acknowledge copyright owners and wish to be informed by any copyright owners who are not properly identified and acknowledged on this website so that we may make any necessary corrections.\nWhere licence terms for individual articles, videos, images and other published content permit republication, you may do so in accordance with the stated terms of the respective licence(s)."
+  },
+  {
+    "objectID": "ts-and-cs.html#what-websites-do-we-link-to",
+    "href": "ts-and-cs.html#what-websites-do-we-link-to",
+    "title": "Terms and conditions",
+    "section": "What websites do we link to?",
+    "text": "What websites do we link to?\nNHS-OA Community editors and contributors recommend external web links on the basis of their suitability and usefulness for our users.\nIt is not our policy to enter into agreements for reciprocal links.\nThe inclusion of a link to an organisation’s or individual’s website does not constitute an endorsement or an approval by NHS-OA Community, its editors, The Strategy Unit, The Health Foundation or other partners and funders of any product, service, policy or opinion of the organisation or individual. NHS-OA Community, its editors, The Strategy Unit, The Health Foundation or other partners and funders are not responsible for the content of external websites."
+  },
+  {
+    "objectID": "ts-and-cs.html#what-websites-will-we-not-link-to",
+    "href": "ts-and-cs.html#what-websites-will-we-not-link-to",
+    "title": "Terms and conditions",
+    "section": "What websites will we not link to?",
+    "text": "What websites will we not link to?\nWe will not link to websites that contain racist, sexual or misleading content; that promote violence; that are in breach of any UK law; which are otherwise offensive to individuals or to groups of people.\nThe decision of NHS-OA Community is final on publishing of content and no correspondence will be entered into.\nIf you wish to report a concern, please email openanalytics.community@nhs.net."
+  },
+  {
+    "objectID": "ts-and-cs.html#software-and-services",
+    "href": "ts-and-cs.html#software-and-services",
+    "title": "Terms and conditions",
+    "section": "Software and services",
+    "text": "Software and services\nSource code and files for this site are available from GitHub. Use of our GitHub repository is governed by the Contributor Covenant Code of Conduct.\nThis site is built using Quarto, an open-source scientific and technical publishing system developed by Posit. Quarto source code and software licences are available from GitHub.\nThe NHS-OA Community website is hosted by GitHub Pages."
+  },
+  {
+    "objectID": "ts-and-cs.html#code-of-conduct",
+    "href": "ts-and-cs.html#code-of-conduct",
+    "title": "Terms and conditions",
+    "section": "Code of conduct",
+    "text": "Code of conduct\nThe NHS-OA Community Code of Conduct is published in this website and covers our expectations of behaviour in all situations, including events."
+  },
+  {
+    "objectID": "ts-and-cs.html#notice-and-takedown-policy",
+    "href": "ts-and-cs.html#notice-and-takedown-policy",
+    "title": "Terms and conditions",
+    "section": "Notice and Takedown Policy",
+    "text": "Notice and Takedown Policy\n\nincludes sensitive data redaction\nDetails of the Notice and Takedown Policy can be found in the NHS-R Way book along with details on how submissions with sensitive information will be rectified."
   },
   {
     "objectID": "videos/index.html",
@@ -88,14 +158,14 @@
     "href": "events/events.html",
     "title": "Upcoming Community Events",
     "section": "",
-    "text": "Day and time Eligibility criteria sign up link"
+    "text": "C&C W&W"
   },
   {
     "objectID": "events/events.html#month",
     "href": "events/events.html#month",
     "title": "Upcoming Community Events",
-    "section": "",
-    "text": "Day and time Eligibility criteria sign up link"
+    "section": "Month",
+    "text": "Month\n\nEvent Name\nDay and time Eligibility criteria sign up link"
   },
   {
     "objectID": "books/posts/statement-on-tools/index.html",
@@ -266,18 +336,32 @@
     "text": "The NHS-R community has created and are developing R packages to support analytics in health and care.\nContributions are very welcome. We appreciate code, documentation, bug fixes and designs for hexes. Please feel free to tackle any of the issues in the package GitHub repository or create a new issue. If you have other code or ideas for new packages, please let us know.\n       \n\n\n\n Back to top"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "fellowships/fellowship.html",
+    "href": "fellowships/fellowship.html",
+    "title": "NHS-OA Community Fellowships",
     "section": "",
-    "text": "About this site\n\n\n\n Back to top"
+    "text": "Our community is largely volunteer-led. We depend on our members to get involved in the running and decision making of NHS-OA, so that it remains a useful set of ever-growing resources to support and encourage our membership.\nIn recognition of the significant contributions from members, the NHS-OA Community awards the honorary title of Fellow for a set period of 3 years.\nFellowships are a great way to advertise your contributions, show your skill set and dedication to open source coding in healthcare, and embellish your CV with evidence of your community spirit.\nFor details on how to nominate yourself or someone else for a Fellowship, please visit the NHSOA-Way book.\n\n  \n  \n\n\n\nList of current NHS-OA Fellows\n\n\nName\nOrganisation\nValid From\n\n\n\n\nAdrian Pratt\nNHS Arden & GEM CSU\n01/04/2025\n\n\nAnastasiia Zharinova\nNHS England\n01/04/2025\n\n\nAnya Ferguson\nThe Strategy Unit\n01/04/2025\n\n\nBianca O’Mahoney\nThe Strategy Unit\n01/01/2024\n\n\nCaileigh Solomenca\nThe Strategy Unit\n01/04/2025\n\n\nChris Beeley\nThe Strategy Unit\n01/04/2025\n\n\nChris Mainey\nNHS Birmingham and Solihull\n01/04/2025\n\n\nClaire Welsh\nThe Strategy Unit\n01/04/2025\n\n\nEllen Coughlan\nThe Health Foundation\n01/04/2025\n\n\nJoe Wilson\nNHS England\n01/04/2025\n\n\nLyn Howard\nNHS England\n01/04/2025\n\n\nMary Amanuel\nNHS England\n15/12/2025\n\n\nNatasha Stephenson\nThe Strategy Unit\n01/04/2024\n\n\nPablo Leon-Rodenas\nNHS England\n01/04/2025\n\n\nPaul Johnson\nNHS South, Central and West\n01/04/2025\n\n\nSam Hollings\nNHS England\n01/04/2025\n\n\nSimon Wellesley-Miller\nNHS England\n01/04/2025\n\n\nStuart Howard\nBlackpool Teaching Hospitals NHS Foundation Trust\n01/04/2025\n\n\nTom Smith\nNottingham University Hospitals NHS Trust\n14/07/2025\n\n\nZoë Turner\nThe Strategy Unit and Nottinghamshire Healthcare NHS Foundation Trust\n01/04/2025\n\n\n\n*Organisations listed are at the time of award\n\n\n\n\n\n\nIf you have any questions about Fellowships, or would like to alter or remove your details from the Fellowship list above, please email us at openanalytics.community@nhs.net.\n\nThank you for your support!\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "NHS Open Analytics Community",
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blogs",
     "section": "",
-    "text": "NHS-R website:\n\n\n\n Back to top"
+    "text": "We are actively seeking blog entries for the new NHS-OA community! If you have something you want to say, get in touch with us at openanalytics.community@nhs.net - we can help you shape it into something really impactful and host it publicly here!\nTo read blogs submitted to NHS-R (our progenitor organisation), please visit our legacy site\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "NHS-OA Community website",
+    "section": "",
+    "text": "Email: openanalytics.community@nhs.net\nGitHub: @nhs-oa-community\nLinkedIn: NHS-OA Community\nSlack: NHS-OA Community\nYouTube NHSOA_Community"
+  },
+  {
+    "objectID": "contact.html#contact-us",
+    "href": "contact.html#contact-us",
+    "title": "NHS-OA Community website",
+    "section": "",
+    "text": "Email: openanalytics.community@nhs.net\nGitHub: @nhs-oa-community\nLinkedIn: NHS-OA Community\nSlack: NHS-OA Community\nYouTube NHSOA_Community"
   },
   {
     "objectID": "coffee_coding/coffee-and-code.html",
