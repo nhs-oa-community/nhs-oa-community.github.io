@@ -8,12 +8,6 @@ filters:
 .bg-blue{
     background-color: #225faa
 }
-
-.navbar-logo {
-  max-height: 90px; /* Adjust size as needed */
-  width: auto;
-}
-
 </style>
 
 NHS-OA and its predecessors NHS-R and NHS.pycom upload all recordings of training, workshops and webinars to YouTube.
