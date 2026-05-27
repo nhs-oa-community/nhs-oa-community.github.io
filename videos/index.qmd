@@ -1,12 +1,42 @@
 ---
 title: "Videos"
+filters:
+  - bergam0t/value-box
 ---
 
-NHS-OA and its predecessors NHS-R and NHS.pycom upload all recordings of training,
-workshops and webinars to YouTube.
+<style>
+.bg-blue{
+    background-color: #225faa
+}
+
+.navbar-logo {
+  max-height: 90px; /* Adjust size as needed */
+  width: auto;
+}
+
+</style>
+
+NHS-OA and its predecessors NHS-R and NHS.pycom upload all recordings of training, workshops and webinars to YouTube.
+
 New recordings will be added to the NHS-OA YouTube channel.
 
-Follow the links below to see past events:
+Click on the buttons below to see past events.
 
-[NHS-OA/NHS-R recordings]()
-[NHS.pycom recordings]()
+
+:::: {.columns}
+
+::: {.column width='50%'}
+
+::: {.value-box value="NHS-OA &<br>NHS-R recordings" icon="../img/oa-logo_basic_transparent_bg_white.png" icon-type="png" color="bg-blue" width="90%" align="center" href="https://www.youtube.com/@NHSOA_Community" height=335px valign="middle" icon-size="150px"}
+:::
+
+:::
+
+::: {.column width='50%'}
+
+::: {.value-box value="NHS.pycom recordings" icon="fa-brands fa-python" icon-type="fa" color="bg-blue" width="90%" align="center" href="https://www.youtube.com/@nhs-pycom" height=335px valign="middle" icon-size=6em}
+:::
+
+:::
+
+::::
