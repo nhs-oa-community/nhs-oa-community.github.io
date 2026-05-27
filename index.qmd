@@ -14,8 +14,8 @@ about:
 listing: 
   - id: books
     contents: 
-    - /books
     - "!books/index.qmd"
+    - /books/posts/*/*.qmd
     sort: "title"
     type: grid
     categories: false
