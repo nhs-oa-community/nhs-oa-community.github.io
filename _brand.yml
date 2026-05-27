@@ -27,6 +27,7 @@ logo:
 color:
   palette:
     blue: "#225faa"
+    dark-blue: "#071424"
     light-blue: "#2596be"
     lavender: "#7c9fcc"
     yellow: "#f2c42b"
@@ -42,8 +43,12 @@ color:
   success: yellow
   warning: light-grey
   danger: red
-  background: white
-  foreground: black
+  background:
+    light: white
+    dark: dark-blue
+  foreground:
+    light: black
+    dark: white
   info: lavender
   light: white
   dark: black
@@ -59,4 +64,10 @@ typography:
     family: Arial, sans-serif
     weight: 700
     line-height: 1.25
-    color: blue
+    color:
+      light: blue
+      dark: light-blue
+  link:
+    color:
+      light: blue
+      dark: light-blue
