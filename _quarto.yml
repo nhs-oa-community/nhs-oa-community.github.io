@@ -20,7 +20,7 @@ website:
     collapse-below: lg
     tools:
     - icon: github
-      href: https://github.com/nhs-oa-community
+      href: https://github.com/nhs-oa-community/nhs-oa-community.github.io
     right:
       - text: "About"
         href: about.qmd
