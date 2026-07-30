@@ -16,8 +16,7 @@ share our values from the public sector, academia, and the third sector.
 We are coding language-agnostic, but principally provide resources and training
 in R and python.
 
-NHS-OA is hosted by [The Strategy Unit](https://www.strategyunitwm.nhs.uk/)
-Substack
+NHS-OA is hosted by [The Strategy Unit](https://www.strategyunitwm.nhs.uk/).
 
 ## How can I get involved?
 
