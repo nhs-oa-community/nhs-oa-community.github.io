@@ -14,3 +14,6 @@ Contributions are very welcome. We appreciate code, documentation, bug fixes and
 [<img src="https://raw.githubusercontent.com/nhs-r-community/FunnelPlotR/refs/heads/main/man/figures/logo.png" height="150" alt = "FunnelPlotR"/>](https://nhs-r-community.github.io/FunnelPlotR/)
 <a href="https://nhs-r-community.github.io/NHSRwaitinglist/" class="btn btn-primary" target="_blank">NHSRwaitinglist</a>
 <a href="https://nhs-r-community.github.io/NHSRpopulation/" class="btn btn-primary" target="_blank">NHSRpopulation</a>
+
+## Python
+<a href="https://github.com/nhs-oa-community/nhspy-plotthedots" class="btn btn-primary" target="_blank">nhspy-plotthedots</a>
