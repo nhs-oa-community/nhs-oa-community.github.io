@@ -1,10 +1,15 @@
 ---
-title: "R packages"
+title: "Packages"
 ---
 
-The NHS-R community has created and are developing R packages to support analytics in health and care. 
+The NHS-R community has created and are developing Python and R packages to support analytics in health and care. 
 
 Contributions are very welcome. We appreciate code, documentation, bug fixes and designs for hexes. Please feel free to tackle any of the issues in the package GitHub repository or create a new issue. If you have other code or ideas for new packages, please let us know.
+
+## Python
+<a href="https://github.com/nhs-oa-community/nhspy-plotthedots" class="btn btn-primary" target="_blank">nhspy-plotthedots</a>
+
+## R
 
 [<img src="https://raw.githubusercontent.com/nhs-r-community/NHSRplotthedots/main/inst/images/logo.png" height="150" alt = "NHSRplotthedots"/>](https://nhs-r-community.github.io/NHSRplotthedots/)
 [<img src="https://raw.githubusercontent.com/nhs-r-community/NHSRdatasets/main/inst/images/nhsrdatasetslogo.png" height="150" alt = "NHSRdatasets"/>](https://nhs-r-community.github.io/NHSRdatasets/)
@@ -14,6 +19,3 @@ Contributions are very welcome. We appreciate code, documentation, bug fixes and
 [<img src="https://raw.githubusercontent.com/nhs-r-community/FunnelPlotR/refs/heads/main/man/figures/logo.png" height="150" alt = "FunnelPlotR"/>](https://nhs-r-community.github.io/FunnelPlotR/)
 <a href="https://nhs-r-community.github.io/NHSRwaitinglist/" class="btn btn-primary" target="_blank">NHSRwaitinglist</a>
 <a href="https://nhs-r-community.github.io/NHSRpopulation/" class="btn btn-primary" target="_blank">NHSRpopulation</a>
-
-## Python
-<a href="https://github.com/nhs-oa-community/nhspy-plotthedots" class="btn btn-primary" target="_blank">nhspy-plotthedots</a>
