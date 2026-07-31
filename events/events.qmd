@@ -53,41 +53,6 @@ Links:
 + 10:30 - 11:30 (BST)
 + 🔗 [Register to attend here](https://events.teams.microsoft.com/event/f4913672-0d1a-4509-b1b5-35ec2d96dc30@37c354b2-85b0-47f5-b222-07b48d774ee3)
 
-📆 15th & 16th **Introduction to R and R Studio with Zoë Turner**:
-
-_From ‘Hello World’ to producing a basic report._
-
-_This introduction takes you from no knowledge of R to teaching you the basics of 
-the R studio environment, then loading in some data, some common data wrangling 
-tasks, some charting and finishing with pulling it all together to produce a 
-simple automated report._  
-
-_No previous knowledge is required. This workshop will utilise the cloud, with all 
-datasets provided as part of the course material, so no specialist set up is 
-required._
-
-+ Workshop
-+ 09:00 - 13:00 (BST)
-+ 🔗 [Register to attend here](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=slTDN7CF9UeyIge0jXdO49xonCqYusFJh3y-kXmKM_1UM0pRTVZLVVJDSzVVWjFXRTI1VTFXVFVVSS4u)
-
-## OCTOBER 2026
-
-📆 13th & 14th **Intermediate R with Zoë Turner**:
-
-_This course is designed to follow on from the Introduction to R and R Studio 
-course, noting that attendees should be familiar with the basics covered in the 
-workshop._
-
-_Please be advised that this session will go into more depth and complex wrangling 
-tasks, explore how to use the NHS-R SPC plot the dots library and cover in very 
-simple terms an understanding of some functional programming. 
-This workshop will utilise the cloud, with all datasets provided as part of the 
-course material, so no specialist set up is required._
-
-+ Workshop
-+ 09:00 - 13:00 (BST)
-+ 🔗 [Register to attend here](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=slTDN7CF9UeyIge0jXdO49xonCqYusFJh3y-kXmKM_1UMzU2SDYwWEgxS0lIQjhSNjJKQk40R08zMi4u)
-
 
 ## ☕ Coffee and Coding 🍵 {#sec-coffee} 
 
