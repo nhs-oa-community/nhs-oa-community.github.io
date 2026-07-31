@@ -2,7 +2,7 @@
 title: "Packages"
 ---
 
-The NHS-R community has created and are developing Python and R packages to support analytics in health and care. 
+The NHS-OA community has created and are developing Python and R packages to support analytics in health and care. 
 
 Contributions are very welcome. We appreciate code, documentation, bug fixes and designs for hexes. Please feel free to tackle any of the issues in the package GitHub repository or create a new issue. If you have other code or ideas for new packages, please let us know.
 
