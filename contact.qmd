@@ -5,7 +5,7 @@ toc: false
 title-block-banner: true
 ---
 
-## Contact us
+# Contact us
 
 - **Email:** [openanalytics.community@nhs.net](mailto:openanalytics.community@nhs.net)
 
