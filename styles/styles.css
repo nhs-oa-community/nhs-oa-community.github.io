@@ -2,3 +2,25 @@
   max-height: 80px;
   width: auto;
 }
+
+h2.plain-link a {
+  text-decoration: none;
+  font-weight: inherit;
+  color: inherit;
+}
+
+.browse-more {
+  display: inline-block;
+  margin-top: 0.75rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.browse-more:hover {
+  text-decoration: underline;
+}
+
+.browse-more:focus-visible {
+  outline: 3px solid currentColor;
+  outline-offset: 3px;
+}

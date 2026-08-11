@@ -11,9 +11,9 @@ about:
   image-width: 32em
   id: hero-heading
 
-listing: 
+listing:
   - id: books
-    contents: 
+    contents:
     - "!books/index.qmd"
     - /books/posts/*/*.qmd
     sort: "title"
@@ -23,9 +23,9 @@ listing:
     filter-ui: false
     max-items: 3
     feed: false
-    
+
   - id: blog
-    contents: 
+    contents:
     - /blog
     - "!blog/index.qmd"
     sort: "date desc"
@@ -42,20 +42,29 @@ listing:
 ::: {#hero-heading}
 ### A community for promoting open code and tools in health and care
 
-Building a community of practice for data analysis and data science using open 
+Building a community of practice for data analysis and data science using open
 source software in the NHS and wider UK health and care system.
 
 :::
 
-## [Blog](blog/index.qmd)
+## [Blog](blog/index.qmd) {.plain-link}
 
 ::: {#blog}
 :::
 
-## [Books](books/index.qmd)
+<a class="browse-more" href="/blog/index.html">
+  Browse all blog posts <span aria-hidden="true">→</span>
+</a>
+
+
+## [Books](books/index.qmd) {.plain-link}
 
 ::: {#books}
 :::
+
+<a class="browse-more" href="/books/index.html">
+  Browse all books <span aria-hidden="true">→</span>
+</a>
 
 ::: footer-text
 ::: {.footer-container .white-background}
