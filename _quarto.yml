@@ -31,11 +31,11 @@ website:
         - text: "Workshops and webinars"
           href: webinars-and-workshops.qmd
         - text: "Coffee and Coding"
-          href: coffee-and-code.qmd 
+          href: coffee-and-code.qmd
       - text: "Blogs"
         href: blog/index.qmd
       - text: "Training"
-        href: training/index.qmd 
+        href: training/index.qmd
       - text: "Resources"
         menu:
         - text: "Books"
@@ -43,7 +43,7 @@ website:
         - text: "Videos"
           href: videos/index.qmd
         - text: "Packages"
-          href: packages/r-packages.qmd 
+          href: packages/r-packages.qmd
       - text: "Fellowships"
         href: fellowships/fellowship.qmd
         aria-label: Fellowships page
@@ -70,6 +70,9 @@ website:
       - text: "Licence"
         href: LICENSE.md
         aria-label: Licence Details
+      - text: "Accessibility"
+        href: accessibility.qmd
+        aria-label: Accessibility
 
 format:
   html:
@@ -78,4 +81,3 @@ format:
 execute:
   freeze: auto
   warning: false
-
