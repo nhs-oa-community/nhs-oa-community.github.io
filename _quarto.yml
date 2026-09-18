@@ -14,7 +14,7 @@ website:
   repo-actions: [edit, issue]
   navbar:
     toggle-position: right
-    logo: https://raw.githubusercontent.com/nhs-oa-community/assets/main/logo/logo_basic.png
+    logo: "img/oa-logo_basic_min_bg.png"
     logo-alt: "NHS-OA Community Logo which consists of the words and incorporating the OA logo"
     title: false
     collapse-below: lg
@@ -72,7 +72,8 @@ website:
         aria-label: Licence Details
 
 format:
-  html
+  html:
+    css: styles/styles.css
 
 execute:
   freeze: auto

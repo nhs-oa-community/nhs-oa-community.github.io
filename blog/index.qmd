@@ -1,6 +1,23 @@
 ---
 title: "Blogs"
-format: html
+description: |
+    Blogs are submitted from NHS-OA Community members.<br>
+listing: 
+    contents: "**/index.qmd"
+    sort: "date desc"
+    type: default
+    categories: true
+    image-placeholder: /img/oa-logo_basic.png
+    sort-ui: false
+    filter-ui: false
+    fields: [image, title, author, categories, date, word-count, reading-time]
+    page-size: 5
+    feed: true
+format: 
+    html: 
+        page-layout: full
+title-block-banner: false
+citation: false
 ---
 
 We are actively seeking blog entries for the new NHS-OA community!
@@ -9,4 +26,27 @@ If you have something you want to say, get in touch with us at
 can help you shape it into something really impactful and host it publicly here!
 
 To read blogs submitted to NHS-R (our progenitor organisation), please visit
-[our legacy site](https://nhsrcommunity.com/blog/)
+[our legacy site](https://nhsrcommunity.com/blog/).
+
+:::{.callout-tip}
+## How to submit a new blog post
+
+**To submit it as a Pull Request (if you have a GitHub account)**
+
+1. [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) the [website repository](https://github.com/nhs-oa-community/nhs-oa-community.github.io.git) to your local machine.
+2. Create a new branch with the name of your blog post.
+3. Add a new folder with the same (blog post) name to the relevant /blog/posts/year 
+folder.
+4. Inside that new folder, add your blog post as 'index.qmd' (it's important that the document is named 'index') 
+along with any associated images.
+5. Render the website locally (to update the _freeze folder).
+6. Commit and push your changes up to the remote repository and raise a Pull Request
+with you as the assignee.
+
+**If you'd rather do it the old fashioned way!**
+
+Feel free to email us if you'd like help submitting a blog post at the email address
+above. 
+We can either help you submit a PR, or we can add the blog for you.
+:::
+

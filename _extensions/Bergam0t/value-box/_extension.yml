@@ -1,0 +1,12 @@
+title: Value Box
+author: Sammi Rosser, Claude Sonnet 4.6, Gemini 3.1 Pro
+version: 1.1.0
+quarto-required: ">=1.3.0"
+contributes:
+  filters:
+    - value-box.lua
+  formats:
+    revealjs:
+      theme: value-box.scss
+    html:
+      theme: value-box.scss

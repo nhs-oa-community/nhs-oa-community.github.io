@@ -14,8 +14,8 @@ about:
 listing: 
   - id: books
     contents: 
-    - /books
     - "!books/index.qmd"
+    - /books/posts/*/*.qmd
     sort: "title"
     type: grid
     categories: false
@@ -37,9 +37,7 @@ listing:
     feed: false
 ---
 
-![](img/oa-logo_basic.png){fig-align="center"}
-
-<br><br>
+![](img/oa-logo_basic_min_bg.png){fig-align="center" height=300}
 
 ::: {#hero-heading}
 ### A community for promoting open code and tools in health and care
