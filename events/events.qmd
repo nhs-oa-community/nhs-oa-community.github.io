@@ -24,35 +24,6 @@ Please note you must sign up with a work email address to verify your credential
 
 -----
 
-### SEPTEMBER 2026
-
-
-📆 10th **UK Address Matcher: High performance free address matching software with 
-Tom Hepworth**:
-
-_Address matching is a common challenge when working with messy, inconsistent, 
-or incomplete address data. 
-In this webinar, we’ll introduce uk_address_matcher, an open-source Python 
-package for matching UK addresses to canonical address datasets such as Ordnance 
-Survey AddressBase or OS NGD. 
-We’ll demonstrate how the package can be used to run fast, transparent, and 
-reproducible address matching workflows, including how to interpret match scores 
-and choose appropriate thresholds. 
-The session will also introduce ukam_os_builder, a companion package that helps 
-users quickly access and prepare Ordnance Survey data under PSGA licensing, 
-making it easier to get started with high-quality reference data. 
-The webinar will include practical examples and discussion of how these tools 
-can support robust analytical pipelines._
-
-Links: 
-
-[uk_address_matcher](https://github.com/moj-analytical-services/uk_address_matcher)
-[ukam_os_builder](https://github.com/moj-analytical-services/ukam_os_builder)
-
-+ Webinar
-+ 10:30 - 11:30 (BST)
-+ 🔗 [Register to attend here](https://events.teams.microsoft.com/event/f4913672-0d1a-4509-b1b5-35ec2d96dc30@37c354b2-85b0-47f5-b222-07b48d774ee3)
-
 
 ## ☕ Coffee and Coding 🍵 {#sec-coffee} 
 
