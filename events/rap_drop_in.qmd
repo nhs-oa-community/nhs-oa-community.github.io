@@ -1,0 +1,30 @@
+---
+title: "RAP Drop Ins"
+---
+
+Reproducible Analytical Pipelines are the bedrock of modern analytical efficiency,
+and a key element in NHS-OA's vision.
+These drop in sessions, run by the RAP sub-committee of NHS-OA and the Strategy Unit,
+are designed to offer a space to ask the 'stupid questions' 
+(Hint: _there aren't any!_), discuss how to up your RAP game and get great tips from
+your colleagues across the NHS.
+
+Whether you're RAP‑curious or already deep into reproducible workflows, this 
+session gives you a friendly, hands‑on space to learn with NHS colleagues. 
+Expect real challenges, real solutions, and practical tips you can use the same day!
+
+What we explore:
+
+- Python
+- R
+- SQL
+- Git
+- GitHub
+- Automation
+- Reproducibility
+- Smarter workflows
+
+To sign up, fill in [this short survey](smartsurvey.co.uk/s/XPUHSJ).
+
+Can’t join live? [Share your question here](https://github.com/nhs-oa-community/RAP_Drop_In/discussions) and we’ll pick it up! 
+

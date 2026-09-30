@@ -1,0 +1,14 @@
+---
+title: "🧑‍🏫 Workshops and webinars"
+---
+
+
+:::{.callout-note}
+Please note:
+
+- Workshop attendance is restricted to UK employees of the NHS, public sector, 
+civil service, voluntary sector, charities and academia, or who are retirees 
+from any of these sectors. 
+Please note you must sign up with a work email address to verify your credentials.
+- Webinars are free to all to attend, and recordings are stored on our [YouTube Channel](https://www.youtube.com/@NHSOA_Community).
+:::
