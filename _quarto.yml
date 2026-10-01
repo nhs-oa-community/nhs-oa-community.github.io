@@ -26,12 +26,13 @@ website:
         href: about.qmd
         aria-label: About page
       - text: "Events"
-        href: events/events.qmd
         menu:
         - text: "Workshops and webinars"
-          href: webinars-and-workshops.qmd
+          href: events/webinars-and-workshops.qmd
         - text: "Coffee and Coding"
-          href: coffee-and-code.qmd
+          href: events/coffee-and-code.qmd
+        - text: "RAP Drop-Ins"
+          href: events/rap_drop_in.qmd
       - text: "Blogs"
         href: blog/index.qmd
       - text: "Training"

@@ -6,6 +6,20 @@ Coffee and Coding is a core initiative of the NHS-OA Community, designed to prov
 
 It’s essentially a "community of practice" where the focus is on learning from peers rather than formal classroom instruction.
 
+Sessions are held weekly, alternating between the following days/times:
+
+📆 **WEDNESDAYS**:
+
++ Host: Simon Wellesley-Miller (NHSE)
++ 11:30 - 12:30 (GMT)
+
+📆 **THURSDAYS**:
+
++ Host: Lucy Spencer (DHSC)
++ 10:30 - 11:30 (GMT)
+
+So sign up, [register your interest](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=slTDN7CF9UeyIge0jXdO49xonCqYusFJh3y-kXmKM_1UQTVJUjlZVVFUN1RNMjlMM0NUQkk5NTczMS4u).
+
 ## What Happens in a Session?
 
 The sessions typically last an hour and are held virtually (usually via MS Teams). While they are organic and informal, they generally follow a loose structure:
@@ -29,16 +43,14 @@ A typical session is roughly 40% beginners, 45% intermediate, and 15% advanced u
 
 
 ## How to Join
-- Frequency: Sessions usually happen every weeks, rotating between different days (Wednesdays & Thursdays) to ensure people with different shift patterns or part-time schedules can attend.
+- Frequency: Sessions usually happen every week, rotating between different days (Wednesdays & Thursdays) to ensure people with different shift patterns or part-time schedules can attend.
 - Booking: You don't usually need to "book" a ticket in the traditional sense, but you can sign up via the NHS-OA Community Page to get the MS Teams calendar invite and the .ics file.
 - Slack: Much of the follow-up and resource sharing happens on the NHS-OA Community Slack channel, which is a great place to stay connected between sessions.
-Why go?
+
+## Why go?
 
 If you are an analyst in the NHS, it’s one of the best ways to break out of your silo. 
 You’ll find that someone else has almost always faced the same problem you’re currently struggling with, and they’ve likely already written a script to solve it.
 Its always great to see what other people are up to and be inspired and share ideas, you just don’t know what you don’t know – this is a safe space to find out.
 We want to share the cool stuff we are doing and help the community to thrive to support patient care.
 
-## Dates of upcoming sessions
-To see the dates of upcoming Coffe & Code sessions and to sign up to attend
-please see the [events](/events/events.qmd) page.
