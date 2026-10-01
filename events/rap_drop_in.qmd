@@ -13,18 +13,37 @@ Whether you're RAP‑curious or already deep into reproducible workflows, this
 session gives you a friendly, hands‑on space to learn with NHS colleagues. 
 Expect real challenges, real solutions, and practical tips you can use the same day!
 
-What we explore:
 
-- Python
-- R
-- SQL
-- Git
-- GitHub
-- Automation
-- Reproducibility
-- Smarter workflows
+## What is RAP? 
 
-To sign up, fill in [this short survey](smartsurvey.co.uk/s/XPUHSJ).
+RAP (Reproducible Analytical Pipelines) is a set of principles and working practices that help you create faster, more robust, and more transparent analytical processes.
+ 
+## Why is RAP important?
 
-Can’t join live? [Share your question here](https://github.com/nhs-oa-community/RAP_Drop_In/discussions) and we’ll pick it up! 
+RAP helps us to:
+
+- Improve the transparency and ethics by showing our workings and giving users a way to feed back into our processes.
+- Improve the accessibility of data by outputting data in a consistent, predictable, and accessible format for users.
+- Improve the quality of data by ensuring good coding standards are applied.
+- Improve the utility of data by sharing code. This shows users how the data have been produced and allowing them to reuse our code.
+- Improve the reliability of data by automating manual steps where possible.
+
+## What happens in a RAP drop-in session? 
+
+Come along and ask us anything about Python, R, SQL, Git, GitHub, or even how to do RAP in general! 
+It is an open-door session, come and go as you please! Sessions are typically made up of a mix of RAP Veterans and those just starting their RAP journey.
+Anyone can ask a question, and everyone can answer. The facilitators will ensure everyone has a chance to do both, as well as capturing questions and answers to be recorded on the [RAP Drop-In Discussions Page](https://github.com/nhs-oa-community/RAP_Drop_In/discussions).
+This is not just a place for computer whizzes; managers are welcome to come and ask questions! There are no stupid questions or questions that are asked too much!
+RAP drop-in sessions take place every other Wednesday, from 10:00 until 11:00 UK time, via MS Teams.
+
+## Key Rules and Ethos
+
+The community operates on a few specific principles to keep the environment safe and productive:
+
+- No attribution: No question is too simple. Ask it or say when you are stuck. We summarise questions and answers as GitHub Discussions so others can learn from them, but we avoid saying who said what, or which team or organisation they are from.
+- No Patient Data: This is strictly enforced. Code is shared using “dummy” or synthetic data; real patient data is never shown.
+- Inclusivity: It is aimed at all skill levels.
+- Tell everyone about RAP – the goal is to grow the open-source movement within the healthcare sector.
+- Disrespectful, disruptive and/or abusive behaviour will NOT be tolerated. It is at the discretion of the host to remove any attendees that exhibit this behaviour. 
+For additional information, please refer to the [NHS Open Analytics Community Code of Conduct](https://nhsoa.uk/CODE_OF_CONDUCT.html).
 
