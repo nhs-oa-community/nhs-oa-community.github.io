@@ -20,25 +20,6 @@ retirement from one of the occupations covered by the list below.
 
 ## Current Training Courses (all held on MS Teams)
 
-### SEPTEMBER 2026
-
-📆 15th & 16th **Introduction to R and R Studio with Zoë Turner**:
-
-_From ‘Hello World’ to producing a basic report._
-
-_This introduction takes you from no knowledge of R to teaching you the basics of 
-the R studio environment, then loading in some data, some common data wrangling 
-tasks, some charting and finishing with pulling it all together to produce a 
-simple automated report._  
-
-_No previous knowledge is required. This workshop will utilise the cloud, with all 
-datasets provided as part of the course material, so no specialist set up is 
-required._
-
-+ Workshop
-+ 09:00 - 13:00 (BST)
-+ 🔗 [Register to attend here](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=slTDN7CF9UeyIge0jXdO49xonCqYusFJh3y-kXmKM_1UM0pRTVZLVVJDSzVVWjFXRTI1VTFXVFVVSS4u)
-
 ### OCTOBER 2026
 
 📆 13th & 14th **Intermediate R with Zoë Turner**:
