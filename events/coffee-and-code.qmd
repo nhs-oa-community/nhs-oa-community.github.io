@@ -54,3 +54,9 @@ You’ll find that someone else has almost always faced the same problem you’r
 Its always great to see what other people are up to and be inspired and share ideas, you just don’t know what you don’t know – this is a safe space to find out.
 We want to share the cool stuff we are doing and help the community to thrive to support patient care.
 
+## IG Statement
+
+Any data/information collected (from you) will be used for the purpose of administration within the NHS Open Analytics Community. Please be advised that the aforementioned data may be accessed by employees of the Department for Health and Social Care, NHS England, The Strategy Unit and/or agreed event partners, of whom are members of the NHS Open Analytics Community Team, NHS Open Analytics Community Committee and/or are event hosts. Any data/information collected (from you) will not be disclosed to any third party, except within the terms of the UK Data Protection Act 2018. 
+In addition, the data/information recorded in the registration form listed above will be used to support the NHS-Open Analytics Community, Department for Health and Social Care, The Strategy Unit and/or agreed event partner's event management, marketing and market research activities. 
+It is important to note that you have the right to withdraw consent for the collection of your data at any point and can do so by contacting the [NHS Open Analytics Community Team](openanalytics.community@nhs.net). 
+
