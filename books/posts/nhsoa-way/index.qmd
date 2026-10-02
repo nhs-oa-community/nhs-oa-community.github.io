@@ -1,0 +1,19 @@
+---
+title: "NHS-OA Way"
+date-meta: 2026-10-02
+description: |
+  Everything you need or want to know about NHS-OA Community. 
+image: book-image.jpg
+image-alt: Stepping stones across calm water.
+categories:
+  - code-of-conduct
+links:
+- icon: journal-text
+  name: NHS-OA Way
+  url: https://way.nhsoa.uk/
+- icon: github
+  name: GitHub
+  url: https://github.com/nhs-oa-community/nhsoa-way
+
+---
+
