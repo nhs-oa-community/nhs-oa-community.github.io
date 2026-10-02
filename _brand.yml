@@ -1,26 +1,26 @@
 meta:
-  name: 
+  name:
     short: NHS-OA
     full: NHS Open Analytics Community
   links:
-    home: 
+    home:
     github: https://github.com/nhs-oa-community/nhsoa_brand_yml.git
 
 logo:
   images:
-    logo_basic: 
+    logo_basic:
       path: logos/logo_basic.png
       alt: NHS-OA Community logo
-    logo_email: 
+    logo_email:
       path: logos/logo_email.png
       alt: NHS-OA Community email banner
-  medium: 
+  medium:
     light: logo_basic
     dark: logo_basic
-  small: 
+  small:
     light: logo_basic
     dark: logo_basic
-  large: 
+  large:
     light: logo_basic
     dark: logo_basic
 
@@ -28,7 +28,7 @@ color:
   palette:
     blue: "#225faa"
     dark-blue: "#071424"
-    light-blue: "#2596be"
+    light-blue: "#2596BE"
     lavender: "#7c9fcc"
     yellow: "#f2c42b"
     mid-yellow: "#fada6f"
@@ -71,3 +71,12 @@ typography:
     color:
       light: blue
       dark: light-blue
+
+
+defaults:
+  bootstrap:
+    defaults:
+      # Mode-neutral hover/focus highlight for dropdown items: translucent
+      # light-blue works over both the white and dark-blue backgrounds, so the
+      # default text colours stay legible in light and dark mode.
+      dropdown-link-hover-bg: "rgba(37, 150, 190, 0.4)"
