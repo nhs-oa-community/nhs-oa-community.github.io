@@ -55,8 +55,7 @@ fellows |>
     #fellowship_table .gt_table_body {
       background-color: unset;
     }"
-  ) |>
-  gt::as_raw_html(inline_css = TRUE)
+  ) 
 ```
 
 If you have any questions about Fellowships, or would like to alter or
