@@ -258,7 +258,6 @@ If you believe someone is in physical danger, please contact the appropriate eme
 
 The Code of Conduct committee is:
 
--   [Zoë Turner: zoe.turner3\@nhs.net (On secondment)]{style="colour:grey;"}
 -   Chris Beeley: chris.beeley1\@nhs.net
 -   Claire Welsh: claire.welsh8\@nhs.net
 
@@ -302,14 +301,14 @@ Possible responses may include:
 -   A private in-person conversation between a member of the team and the individual(s) involved. In this case, the person who has the conversation will provide a written summary for record keeping.
 -   A private written reprimand from a member of the core development team to the individual(s) involved. In this case, the core development team member will deliver that reprimand to the individual(s) over email, cc'ing [the core development team](#contact-us) for record keeping.
 -   A public announcement of an incident, ideally in the same venue that the violation occurred (for example on the listserv for a listserv violation; GitHub for a GitHub violation, and so on). The committee may choose to publish this message elsewhere for posterity.
--   An imposed "time out" from online spaces. Zoë Turner, Claire Welsh and Chris Beeley will communicate this "time out" to the individual(s) involved.
+-   An imposed "time out" from online spaces. Claire Welsh and Chris Beeley will communicate this "time out" to the individual(s) involved.
 -   A permanent or temporary ban from some or all NHS-OA Community project spaces (GitHub, in-person events and so on). The core development team will maintain records of all such bans so that they may be reviewed in the future, extended to a Code of Conduct safety team as it is built, or otherwise maintained. If a member of the community is removed from an event they will not be reimbursed for any part of the event that they miss.
 
 Once a resolution is agreed upon, but before it is enacted, a member of the Code of Conduct committee will contact the original reporter and any other affected parties and explain the proposed resolution. The Code of Conduct committee member will ask if this resolution is acceptable, and must note feedback for the record. However, the Code of Conduct committee is not required to act on this feedback.
 
 ## Conflicts of Interest
 
-In the event of any conflict of interest such that Zoë Turner or Claire Welsh are not able to evaluate or enforce the reported violation, Chris Beeley will take responsibility and in the event that all are involved in the conflict of interest this will be escalated to a senior manager within The Strategy Unit.
+In the event of any conflict of interest such that Claire Welsh is not able to evaluate or enforce the reported violation, Chris Beeley will take responsibility and in the event that all are involved in the conflict of interest this will be escalated to a senior manager within The Strategy Unit.
 
 # Notice and Takedown policy
 
