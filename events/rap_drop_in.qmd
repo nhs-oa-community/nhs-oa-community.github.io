@@ -34,6 +34,7 @@ Come along and ask us anything about Python, R, SQL, Git, GitHub, or even how to
 It is an open-door session, come and go as you please! Sessions are typically made up of a mix of RAP Veterans and those just starting their RAP journey.
 Anyone can ask a question, and everyone can answer. The facilitators will ensure everyone has a chance to do both, as well as capturing questions and answers to be recorded on the [RAP Drop-In Discussions Page](https://github.com/nhs-oa-community/RAP_Drop_In/discussions).
 This is not just a place for computer whizzes; managers are welcome to come and ask questions! There are no stupid questions or questions that are asked too much!
+
 RAP drop-in sessions take place every other Wednesday, from 10:00 until 11:00 UK time, via MS Teams.
 
 ## Key Rules and Ethos
@@ -58,11 +59,14 @@ RAP drop-in sessions are a great opportunity to network and collaborate with a d
 ## How to register
 
 Please complete this [short form](https://www.smartsurvey.co.uk/s/XPUHSJ) to register your interest to attend the RAP drop-in sessions. You will then receive a reoccurring MS Teams meeting invite from the NHS Open Analytics Community Team.
+
 NB. By completing the registration form, you will be permitting the NHS Open Analytics Community Team to contact you directly regarding invitations to RAP drop-in sessions and related events.
 
 ## IG Statement
 
 Any data/information collected (from you) will be used for the purpose of administration within the NHS Open Analytics Community. Please be advised that the aforementioned data may be accessed by employees of the Department for Health and Social Care, NHS England, The Strategy Unit and/or agreed event partners, of whom are members of the NHS Open Analytics Community Team, NHS Open Analytics Community Committee and/or are event hosts. Any data/information collected (from you) will not be disclosed to any third party, except within the terms of the UK Data Protection Act 2018. 
+
 In addition, the data/information recorded in the registration form listed above will be used to support the NHS-Open Analytics Community, Department for Health and Social Care, NHS England, The Strategy Unit and/or agreed event partner's event management, marketing and market research activities. 
-It is important to note that you have the right to withdraw consent for the collection of your data at any point and can do so by contacting the [NHS Open Analytics Community Team](openanalytics.community@nhs.net). 
+
+It is important to note that you have the right to withdraw consent for the collection of your data at any point and can do so by contacting the [NHS Open Analytics Community Team](mailto:openanalytics.community@nhs.net). 
 
