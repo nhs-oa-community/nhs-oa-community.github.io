@@ -27,6 +27,8 @@ website:
         aria-label: About page
       - text: "Events"
         menu:
+        - text: "Virtual Unconference"
+          href: events/virtual_unconference.qmd
         - text: "Workshops and webinars"
           href: events/webinars-and-workshops.qmd
         - text: "Coffee and Coding"
