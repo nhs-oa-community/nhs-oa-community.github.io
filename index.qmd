@@ -47,6 +47,12 @@ source software in the NHS and wider UK health and care system.
 
 :::
 
+## [✨ Virtual Unconference - join us! ✨]() {.plain-link}
+
+In place of an in person conference this year, we are holding a half-day online discussions event ('unconference') Thursday 26th November 9.30-12.30! 
+See the [events page](events/virtual_unconference.qmd) for details.
+
+
 ## [Blog](blog/index.qmd) {.plain-link}
 
 ::: {#blog}
