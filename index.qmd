@@ -40,7 +40,7 @@ listing:
 ![](img/oa-logo_basic_min_bg.png){fig-align="center" height=300}
 
 ::: {#hero-heading}
-### A community for promoting open code and tools in health and care
+# A community for promoting open code and tools in health and care
 
 Building a community of practice for data analysis and data science using open
 source software in the NHS and wider UK health and care system.
