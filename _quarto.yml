@@ -2,6 +2,7 @@ project:
   type: website
   resources:
     - CNAME
+    - "js/nav-focus.js"
 
 website:
   title: "NHS-OA Community website"
@@ -80,6 +81,9 @@ website:
 format:
   html:
     css: styles/styles.css
+    include-in-header:
+      - text: |
+          <script src="/js/nav-focus.js"></script>
 
 execute:
   freeze: auto
